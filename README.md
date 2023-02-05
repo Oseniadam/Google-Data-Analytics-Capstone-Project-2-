@@ -7,6 +7,7 @@ A high-tech manufacturer of heath-focused products for women.
 I am looking into current smart device usage trends and how these trends can apply to Bellabeat customers.
 
 The data being used is from FitBit Fitness Tracker, a public dataset available through Mobius (https://www.kaggle.com/arashnic/fitbit). 
+
 My objective is to provide Bellabeat with any information to help with marketing decisions and high-level recommendations.
 
 # Goals
